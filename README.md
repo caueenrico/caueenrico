@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @caueenrico
 - 👀 I am interested in gaining experience as a front-end developer
-- 🌱 I am currently learning html, CSS, Javascript
+- 🌱 I'm currently specializing in React JS
 - 📫 caueenrico@gmail.com
 - 📞 13 99164-8306 
 
