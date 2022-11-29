@@ -1,6 +1,5 @@
 - 👋 Hi, I'm @caueenrico
-- 👀 I am interested in gaining experience as a front-end developer
-- 🌱 I'm currently specializing in React JS
+- 🌱 I'm currently specializing in TypeScript / React JS / ReactNative js 
 - 📫 caueenrico@gmail.com
 - 📞 13 99164-8306 
 
