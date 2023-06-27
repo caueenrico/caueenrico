@@ -1,13 +1,15 @@
 - 👋 Hi, I'm @caueenrico
-- 🌱 I'm currently specializing in TypeScript / React JS / ReactNative js 
+- I can say that I'm currently a front-end because it was the gateway for me in the world of development, but in my conscience I know that being a developer is not just that. Here you will see some experiments that I've been doing.
 - 📫 caueenrico@gmail.com
 - 📞 13 99164-8306 
 
-<div align="center">
+ <h3>GitHub Statistics:</h3>
   <a href="https://github.com/caueenrico">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caueenrico&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caueenrico&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  
+  <div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=caueenrico&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png&fire=EB5454"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caueenrico&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  </div>
 
 </div>
 <div style="display: inline_block"><br>
