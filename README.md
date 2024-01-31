@@ -1,7 +1,4 @@
-- 👋 Hi, I'm @caueenrico.dev
-- I can say that I'm currently a front-end because it was the gateway for me in the world of development, but in my conscience I know that being a developer is not just that. Here you will see some experiments that I've been doing.
-- 📫 caueenrico@gmail.com
-- 📞 13 99164-8306 
+Meu objetivo é trabalhar como desenvolvedor Front-end ou Back-end, colaborando em projetos, aprendendo muito com outros desenvolvedores e gerando valor para a empresa e pessoas.
 
  <h3>GitHub Statistics:</h3>
   <a href="https://github.com/caueenrico">
