@@ -1,4 +1,4 @@
-Meu objetivo é trabalhar como desenvolvedor Front-end ou Back-end, colaborando em projetos, aprendendo muito com outros desenvolvedores e gerando valor para a empresa e pessoas.
+
 
  <h3>GitHub Statistics:</h3>
   <a href="https://github.com/caueenrico">
