@@ -1,26 +1,51 @@
+# Hi there, I'm Cauê Enrico 👋
 
+## 💻 About Me
+Software Developer passionate about creating scalable solutions, clean architecture and modern products.  
+Focused on delivering value through technology and continuous evolution.
 
- <h3>GitHub Statistics:</h3>
-  <a href="https://github.com/caueenrico">
-  
-  <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=caueenrico&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&type=png&fire=EB5454"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caueenrico&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-  </div>
+- 🚀 Full Stack Developer  
+- 🧠 Software Architecture & Clean Code  
+- ☁️ Cloud Computing (AWS / Azure)  
+- ⚡ React, Next.js, .NET, Node.js, TypeScript  
+- 📚 Lifelong learner  
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=dotnet,cs,js,ts,react,nextjs,nodejs,postgres,docker,aws,azure,git" />
 
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="caue-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="caue-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="caue-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="caue-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="caue-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+---
+
+## 📈 Professional Snapshot
+
+<div align="center">
+
+| Focus Area | Level |
+|-----------|------|
+| Backend Development (.NET / APIs) | ██████████ 95% |
+| Frontend Development (React / Next.js) | █████████ 90% |
+| Cloud & DevOps | ████████ 80% |
+| Software Architecture | █████████ 88% |
+| Databases & SQL | ████████ 82% |
+| UI/UX & Product Vision | ████████ 78% |
+
 </div>
- 
-   ##
- 
-<div> 
-  <a href="https://instagram.com/caueenrico.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://api.whatsapp.com/send?phone=5513991648306" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:caueenrico@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caue-enrico/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+---
+
+## 🧩 What I Build
+
+```text
+✔ Enterprise APIs
+✔ SaaS Platforms
+✔ Authentication Systems
+✔ Cloud Architectures
+✔ Internal Business Systems
+✔ Integrations (ERP / APIs / Services)
+✔ Modern Web Applications
